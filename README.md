@@ -1,5 +1,5 @@
 Mobile-Application-Develop
 
-apps including Boggle game and Hit the Rythm
+apps including Boggle game and Step on Drum
 
 ==========================
